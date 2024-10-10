@@ -6,6 +6,7 @@
 ![ERD diagram](ERD.png)
 
 ## Layout of app  
+Below are scatches of 3 pages, index, profile and dataset. Showing the possible layout of the app
 ### Index page  
 <img src="index_design.png" alt="Alt text" width=""/>  
 
