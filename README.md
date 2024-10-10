@@ -1,6 +1,7 @@
 # seminar-notes
 ## Use case diagram
-<img src="use_case.png" alt="Alt text" width="700"/>
+<img src="use_case.png" alt="Alt text" width="700"/>  
+
 ## Entity relationship diagram and folder structure storage
 ![ERD diagram](ERD.png)
 
