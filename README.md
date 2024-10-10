@@ -8,7 +8,9 @@
 ## Layout of app  
 ### Index page  
 <img src="index_design.png" alt="Alt text" width=""/>  
+
 ### Profile page  
 <img src="profile_design.png" alt="Alt text" width=""/>  
+
 ### Dataset page  
 <img src="dataset_design.png" alt="Alt text" width=""/>  
