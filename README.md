@@ -14,3 +14,7 @@
 
 ### Dataset page  
 <img src="dataset_design.png" alt="Alt text" width=""/>  
+
+### Moje otazky:
+- Skladanie datasetov: Kazdy dataset ma nazvy tried unique len vramci datasetu. Ked sa spoja datasety, mozu nastat konflikty v nazvoch tried. Kedze ide o rozdielne datasety, konfliktne triedy mozu popisovat rozlicne objekty na fotkach.  
+**Moje Riesenie**:  Promptnut usera ci automaticky zmenit nazvy, alebo ignorovat konfliky?
