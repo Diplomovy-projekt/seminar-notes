@@ -4,7 +4,7 @@
 
 ## Písomná časť
 Začiatok písomnej práce:
-  - Definovanie štruktúry a osnovy diplomovej práce.
+  - Predbežné definovanie štruktúry a osnovy diplomovej práce.
   - Rozpracovanie teoretickej časti
     - Počítačove videnie a anotované vzorky
     - Charakteristika datasetov projektu VEGA
