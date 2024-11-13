@@ -22,7 +22,7 @@
 ![Alt text](preview.png)
 
 ## Upravený ER diagram
-![Alt text](ER_v2.png)
+![Alt text](er_v2.png)
 
 ## Workflow nahratia a stiahnutia datasetu
 ![Alt text](converter.png)
