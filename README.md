@@ -1,26 +1,31 @@
-## Pripomienke z minuleho seminaru
-1. **Vyrazne obmedzit funkcionalitu pre user-ov**:
-   - Umoznit len nahratie datasetua jeho upravu
-   - Odstranit veci ako klonovanie, spajanie atd.
-3. **Admin by mal potvrdit kazdu zmenu od usera.** (Forma pull requestu)
-4. **Hlavná funkcionalita pre guest**:  
-    - on-the-fly vytváranie nových datasetov na základe filtrov
+## Pripomienky z minulého semináru
+1. **Výrazne obmedziť funkcionalitu pre užívateľov**:
+   - Umožniť len nahratie datasetu a jeho úpravu.
+   - Odstrániť funkcie ako klonovanie, spájanie, atď.
+3. **Admin by mal potvrdiť každú zmenu od užívateľa** (Forma pull requestu).
+4. **Hlavná funkcionalita pre návštevníkov**:  
+   - On-the-fly vytváranie nových datasetov na základe filtrov.
 5. **Metadáta pre dataset**:  
    - Pri nahrávaní datasetu sa pridávajú metadáta (rok, jazyk) pre filtrovanie.
 7. **Unifikácia anotácií**:  
-   - Konvertovat anotacie do jednotneho formatu
+   - Konvertovať anotácie do jednotného formátu.
+10. **Analýza našich VEGA datasetov**
 9. **Prístup k datasetom**:
-    - Chceme uchovavat aj privatne datasety?
-10. **Analyza nasich VEGA datasetov**
-   
+   - Chceme uchovávať aj súkromné datasety?
 
-COCO cislice maju kategoriu `_background_` ? (nebola ani raz pouzita)
-## Upraveny use case
+---
+
+## Upravený use case
 ![Alt text](use_case_v2.png)
-### Ukazka pridelenia metadat
+
+### Ukážka pridelenia metadát
 ![Alt text](preview.png)
-## Upraveny ER diagram
+
+## Upravený ER diagram
 ![Alt text](ER_v2.png)
+
+## Workflow nahratia a stiahnutia datasetu
+![Alt text](converter.png)
 ## Analyza VEGA datasetov
 Aktualne anotovane datasetu su:  
 - Cislice
