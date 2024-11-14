@@ -1,4 +1,4 @@
-poo## Pripomienky z minulého semináru
+## Pripomienky z minulého semináru
 1. **Výrazne obmedziť funkcionalitu pre užívateľov**:
    - Umožniť len nahratie datasetu a jeho úpravu.
    - Odstrániť funkcie ako klonovanie, spájanie, atď.
